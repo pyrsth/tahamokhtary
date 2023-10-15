@@ -1,9 +1,8 @@
 # 💫About Me:
 🔭I'm currently working on MOA Project<br>🌱 I’m currently learning @rustlang & @python<br>💬 Ask me about Linux, Linux Dsitros and python
 
-## Socials:
-[Mastodon](https://mastodon.xyz/taha) 
-
+## Stacks:
+![Python](https://img.shields.io/badge/logo-python-yellow?logo=python)]() 
 
 
 <!--
