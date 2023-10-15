@@ -4,7 +4,7 @@
 
 ## Stacks:
 
-![Python](https://img.shields.io/badge/logo-python-yellow?logo=python) ![CSS3](https://img.shields.io/badge/CSS3-yellow?logo=css3) ![C](https://img.shields.io/badge/C-yellow?logo=c)
+![Python](https://img.shields.io/badge/logo-python-yellow?logo=python) ![CSS3](https://img.shields.io/badge/CSS3-yellow?logo=css3) ![C](https://img.shields.io/badge/C-blue?logo=c)
 
 
 <!--
