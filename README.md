@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# 💫About Me:
+🔭I'm currently working on MOA Project<br>🌱 I’m currently learning @rustlang & @python<br>💬 Ask me about Linux, Linux Dsitros and python
 <!--
 **tahamokhtary/tahamokhtary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
