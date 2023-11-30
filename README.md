@@ -1,6 +1,6 @@
 # 💫About Me:
 
-🔭I'm currently working on MOA Project<br>🌱 I’m currently learning @rustlang & @python<br>💬 Ask me about Linux, Linux Dsitros and python
+🔭I'm currently working on MOA Project<br>🌱 I’m currently learning @cpp & @python<br>💬 Ask me about Linux, Linux Dsitros and python
 
 ## Stacks:
 
